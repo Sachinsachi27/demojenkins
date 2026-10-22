@@ -1,1 +1,5 @@
-System.out.println("Hello Gaabru");
+public class NewPrint {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
